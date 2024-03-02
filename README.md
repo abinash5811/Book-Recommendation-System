@@ -5,10 +5,11 @@ Introduction
 
 This repository contains a dataset of books with associated metadata, including ISBN, book title, book author, year of publication, publisher, and image URLs.
 
-Dataset Description
+##Dataset Description
 The dataset is structured as follows:
 
-ISBN: Unique identifier for each book.
+##ISBN: Unique identifier for each book.
+
 Book-Title: Title of the book.
 Book-Author: Author(s) of the book.
 Year-Of-Publication: Year the book was published.
